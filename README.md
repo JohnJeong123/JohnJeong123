@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+
+[![JohnJeong123's github stats](https://github-readme-stats.vercel.app/api?username=JohnJeong123&show_icons=true)](https://github.com/JohnJeong123)
+
+
 <!--
 **JohnJeong123/JohnJeong123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
